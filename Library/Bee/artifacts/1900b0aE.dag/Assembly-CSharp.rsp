@@ -345,13 +345,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/AbrirPuertita.cs"
+"Assets/Scripts/BaseMovement.cs"
 "Assets/Scripts/CameraMovement.cs"
-"Assets/Scripts/MissileImpact.cs"
-"Assets/Scripts/PistonMovement.cs"
 "Assets/Scripts/PlayerMovement.cs"
+"Assets/Scripts/RocketImpact.cs"
 "Assets/Scripts/ShootRocket.cs"
 "Assets/Scripts/StartMachine.cs"
-"Assets/Scripts/Trigger1.cs"
 -langversion:9.0
 
 /deterministic
